@@ -2,7 +2,7 @@
 
 1. run_analysis.R will read Samsung train and test data into variables named X_train and X_test respectively.
 
-2. script will apply descriptive variable names from features.txt to both datasets figuring out indexes of variables with neam and standard deviation values
+2. script will apply descriptive variable names from features.txt to both datasets figuring out indexes of variables with mean and standard deviation values
 
 3. script will read Y train and test labels into y_train and y_test
 
